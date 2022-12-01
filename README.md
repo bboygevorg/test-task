@@ -5,8 +5,9 @@
 ### Installation
 ```sh
 $ npm install 
+```
 
-
-### Development 
+### Installation
 ```sh
 $ npm run start
+```
